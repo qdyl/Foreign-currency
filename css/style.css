@@ -602,23 +602,10 @@ header {
 .footer-links .footer-link-items li .footer-item {
   padding-left: 40%;
 }
-.footer-links .footer-link-items li .footer-item i {
+.footer-links .footer-link-items li .footer-item img {
   margin-right: 6px;
-  vertical-align: middle;
   width: 14px;
   height: 14px;
-}
-.footer-links .footer-link-items li .footer-item .noticce {
-  background: url("../images/huanggou-icon.png") no-repeat left center / 14px 14px;
-}
-.footer-links .footer-link-items li .footer-item .about-us {
-  background: url("../images/guany-icon.png") no-repeat left center / 14px 14px;
-}
-.footer-links .footer-link-items li .footer-item .Privacy {
-  background: url("../images/yins-icon.png") no-repeat left center / 14px 14px;
-}
-.footer-links .footer-link-items li .footer-item .tel {
-  background: url("../images/tel-icon.png") no-repeat left center / 14px 14px;
 }
 .footer-links .footer-link-items .downApp {
   margin-top: -20px;
